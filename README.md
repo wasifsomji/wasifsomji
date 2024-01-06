@@ -1,4 +1,4 @@
-Hello! I'm Wasif, a rising junior at McGill University. 
+Hello! I'm Wasif, a rising junior at McGill University. I am currently in my third year of Computer Engineering, set to graduate in April 2025. I'm current looking for software development internship roles, with a focus on backend development.
 
 Languages: Java, Python, C, JavaScript, HTML, CSS, VHDL, ARM7(Assembly) <br>
 Tools: Git/GitHub, VS Code, IntelliJ IDEA, Eclipse, Postman <br>
