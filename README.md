@@ -1,8 +1,8 @@
 Hello! I'm Wasif, a rising junior at McGill University. 
 
-Languages: Java, Python, C, JavaScript, HTML, CSS, VHDL, ARM7(Assembly) 
-Tools: Git/GitHub, VS Code, IntelliJ IDEA, Eclipse, Postman
-Frameworks: JUnit, Gradle, Cucumber, Spring Boot, PostgreSQL, Vue.js
+Languages: Java, Python, C, JavaScript, HTML, CSS, VHDL, ARM7(Assembly) <br>
+Tools: Git/GitHub, VS Code, IntelliJ IDEA, Eclipse, Postman <br>
+Frameworks: JUnit, Gradle, Cucumber, Spring Boot, PostgreSQL, Vue.js <br>
 <!--
 **wasifsomji/wasifsomji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
