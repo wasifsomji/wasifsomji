@@ -5,7 +5,7 @@
 I am a third-year computer engineering student at McGill University, passionate about exploring the realms of software development and its applications in business environments. 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasif-somji/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasifsomji/)
 
 # 💻 Tech Stack:
 Languages: 
