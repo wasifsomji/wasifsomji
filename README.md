@@ -4,6 +4,10 @@
 # 💫 About Me:
 I am a third-year computer engineering student at McGill University, passionate about exploring the realms of software development and its applications in business environments. 
 
+## 🚀 What I'm Up To
+
+- Currently a Software Developer at Blockchain @ McGill
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasifsomji/)
 
