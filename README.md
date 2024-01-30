@@ -9,6 +9,8 @@ I am an ambitious third-year computer engineering student at McGill University, 
 - Currently a Software Developer at Blockchain @ McGill
 - Delving into machine learning using Python Libraries and SciKit-Learn
 
+- Check out my [coding portfolio!]([https://wasifs-portfolio.netlify.app/])
+
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wasifsomji/)
 
