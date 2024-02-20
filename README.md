@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Wasif Somji </h1>
-<h3 align="center">A passionate software engineer from Canada</h3>
+<h3 align="center">A driven software engineer from Canada</h3>
 
 # 💫 About Me:
 I am an ambitious third-year computer engineering student at McGill University, passionate about exploring the realms of software development and its applications in business environments and artificial intelligence.
