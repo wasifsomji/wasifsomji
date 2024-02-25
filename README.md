@@ -8,7 +8,7 @@ I am an ambitious third-year computer engineering student at McGill University, 
 
 - Currently a Software Developer at Blockchain @ McGill
 - Delving into machine learning using Python Libraries and SciKit-Learn
-- As a Contract Software Engineer, building a full-stack web application using the MERN stack (ReactJS, NodeJS, ExpresJS, and MongoDB) to manage 300+ customers/month
+- As a Contract Software Engineer, currentl building, testing, and deploying a full-stack web application using the MERN stack (ReactJS, NodeJS, ExpresJS, and MongoDB) to manage 300+ customers/month
 
 Check out my [coding portfolio!](https://wasifs-portfolio.netlify.app/)
 
