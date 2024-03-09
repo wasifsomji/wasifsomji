@@ -2,7 +2,7 @@
 <h3 align="center">A driven software engineer from Canada</h3>
 
 # 💫 About Me:
-I am an ambitious third-year computer engineering student at McGill University, passionate about exploring the realms of software development and its applications in business optimization and artificial intelligence.
+I am an ambitious third-year computer engineering student at McGill University, passionate about exploring the realms of software development and its applications in business optimization, finance, and artificial intelligence.
 
 ## 🚀 What I'm Up To
 
