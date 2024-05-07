@@ -6,7 +6,7 @@ I am an ambitious third-year computer engineering student at McGill University, 
 
 ## 🚀 What I'm Up To
 
-- Incoming at The MRG Group as a Software Engineering Intern.
+- Currently working at The MRG Group as a Software Engineering Intern.
 - Currently working as a Backend Engineering Intern part-time at Lottus, a blockchain-based startup.
 - As the Director of Technology, managing the technology portfolio for McGill Ventures, McGill's VC club
   
