@@ -8,7 +8,7 @@ I am an ambitious third-year computer engineering student at McGill University, 
 
 - Currently working at The MRG Group in Toronto as a Software Engineering Intern.
 - Integrating Fiat to Crypto functionality for the backend of Lottus, a blockchain-based startup.
-- As the Director of Technology, managing the technology portfolio for McGill Ventures, McGill's VC club
+- As the Director of Technology, managing the technology portfolio for McGill Ventures, McGill's VC club.
   
 Check out my [coding portfolio!](https://wasifs-portfolio.netlify.app/)
 
