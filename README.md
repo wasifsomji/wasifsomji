@@ -8,6 +8,7 @@ I am an incoming fourth-year Computer Engineering student at McGill University, 
 
 - Currently working at The MRG Group in Toronto as a Software Engineering Intern.
 - Planning out the integration of Fiat to Crypto functionality for the backend of Lottus, a Montreal-based startup.
+- Building out the UI of Stella, an AI Fashion Assistant - part of the Shomigo product umbrella.
   
 Check out my [coding portfolio!](https://wasifs-portfolio.netlify.app/)
 
