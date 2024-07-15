@@ -9,7 +9,7 @@ I am an incoming fourth-year Computer Engineering student at McGill University, 
 - Currently working at The MRG Group in Toronto full-time as a Software Engineering Intern.
 
 On the Side:
-- Building out the UI of Stella, an AI Fashion Assistant - part of the Shomigo product umbrella.
+- Building Stella, an AI Mobile Fashion Assistant - part of the Shomigo product umbrella.
   
 Check out my [coding portfolio!](https://wasifs-portfolio.netlify.app/)
 
