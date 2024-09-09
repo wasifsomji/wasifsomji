@@ -7,9 +7,6 @@ I am an incoming fourth-year Computer Engineering student at McGill University, 
 ## 🚀 What I'm Up To
 
 - Currently working at The MRG Group in Toronto full-time as a Software Engineering Intern.
-
-On the Side:
-- Building Stella, an AI Mobile Fashion Assistant - part of the Shomigo product umbrella.
 - Managing the McGill Ventures technology portfolio. Check it out: https://www.mcgillvc.ca
   
 Check out my [coding portfolio!](https://wasifs-portfolio.netlify.app/)
