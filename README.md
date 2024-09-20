@@ -6,7 +6,7 @@ I am an incoming fourth-year Computer Engineering student at McGill University, 
 
 ## 🚀 What I'm Up To
 
-- Building robust full-stack applications as a Software Developer for Hack4Impact (McGill Chapter). Currently building LiteralLingo, a figurative speech translation app targeted towards users with special needs, working alongside a team of product managers, designers, and developers.
+- Building robust full-stack applications as a Software Developer for Hack4Impact (McGill Chapter). 
 - Managing the McGill Ventures technology portfolio. Check it out: https://www.mcgillvc.ca
   
 Check out my [coding portfolio!](https://wasifs-portfolio.netlify.app/)
