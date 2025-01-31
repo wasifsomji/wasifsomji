@@ -6,6 +6,7 @@ I am a fourth-year Computer Engineering student at McGill University, passionate
 
 ## 🚀 What I'm Up To
 
+- Currently a Software Engineer Intern @ Lightspeed Commerce, working on microservices development with Go, GraphQL, and React for the X-Series Team.
 - Building LiteraLingo, a speech translation app for users with special needs, as a Software Developer for Hack4Impact (McGill Chapter). 
 - Managing the McGill Ventures technology portfolio, including the development of a new CRM + Cap Table Management Software in-house. Check out the website: https://www.mcgillvc.ca
   
