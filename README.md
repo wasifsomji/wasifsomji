@@ -6,8 +6,7 @@ I am a fourth-year Computer Engineering student at McGill University, passionate
 
 ## 🚀 What I'm Up To
 
-- Currently a Software Engineer Intern @ Lightspeed Commerce, working on microservices development with Go, GraphQL, and React for the X-Series Team.
-- Managing the McGill Ventures technology portfolio, including the development of a new CRM + Cap Table Management Software in-house. Club Website: https://www.mcgillvc.ca
+- Currently a Software Engineer Intern @ Amazon, working on native AWS development with React Native, Node, and TypeScript for the Unified Payments Experience (UPX) team.
   
 Check out my [coding portfolio!](https://wasifs-portfolio.netlify.app/)
 
