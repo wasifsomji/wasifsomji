@@ -2,11 +2,11 @@
 <h3 align="center">A full-stack software engineer from Canada</h3>
 
 # 💫 About Me:
-I am a fourth-year Computer Engineering student at McGill University, passionate about exploring the realms of software development and building scalable software.
+I am a final-year Computer Engineering student at McGill University, with experience across full-stack development, automated testing pipelines and cloud infrastructure.
 
 ## 🚀 What I'm Up To
 
-- Currently a Software Engineer Intern @ Amazon, working on native AWS development with React Native, Node, and TypeScript for the Unified Payments Experience (UPX) team.
+- Currently a Software Engineer Intern @ Amazon, working on optimizng payment authentication on the Amazon mobile app, using native AWS development with React Native, Node, and TypeScript.
   
 Check out my [coding portfolio!](https://wasifs-portfolio.netlify.app/)
 
