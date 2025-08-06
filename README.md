@@ -6,7 +6,7 @@ I am a final-year Computer Engineering student at McGill University, with experi
 
 ## 🚀 What I'm Up To
 
-- Currently a Software Engineer Intern @ Amazon, working on optimizng payment authentication on the Amazon mobile app, using native AWS development with React Native, Node, and TypeScript.
+- Currently a Software Engineer Intern @ Amazon, working on optimizing payment authentication on the Amazon mobile app, using native AWS development with React Native, Node, and TypeScript.
   
 Check out my [coding portfolio!](https://wasifs-portfolio.netlify.app/)
 
