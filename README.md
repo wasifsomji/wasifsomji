@@ -2,11 +2,7 @@
 <h3 align="center">A full-stack software engineer from Canada</h3>
 
 # 💫 About Me:
-I am a final-year Computer Engineering student at McGill University, with experience across full-stack development, automated testing pipelines and cloud infrastructure.
-
-## 🚀 What I'm Up To
-
-- Currently a Software Engineer Intern @ Amazon, working on optimizing payment authentication on the Amazon mobile app, using native AWS development with React Native, Node, and TypeScript.
+I am a final-year Computer Engineering student at McGill University, with experience across full-stack development, automated testing pipelines and cloud infrastructure. I have experience developing across SaaS platforms such as the Amazon mobile app and Lightspeed's X-Series platform. 
   
 Check out my [coding portfolio!](https://wasifs-portfolio.netlify.app/)
 
