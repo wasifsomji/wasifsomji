@@ -2,7 +2,9 @@
 <h3 align="center">A full-stack software engineer from Canada</h3>
 
 # 💫 About Me:
-I am a final-year Computer Engineering student at McGill University, with experience across full-stack development, automated testing pipelines and cloud infrastructure. I recently interned at Amazon under the Unified Payments Experience Team, working on optimizing payment authentication processes within their mobile app. I've also helped develop microservices for Lightspeed's flagship retail software, X-Series, and MRG's ticketing platform, AdmitOne. 
+I am a final-year Computer Engineering student at McGill University, with experience across full-stack development, automated testing pipelines and cloud infrastructure. 
+
+I recently interned at Amazon under the Unified Payments Experience Team, working on optimizing payment authentication processes within their mobile app. I've also helped develop microservices for Lightspeed's flagship retail software, X-Series, and MRG's ticketing platform, AdmitOne. 
   
 Check out my [coding portfolio!](https://wasifs-portfolio.netlify.app/)
 
